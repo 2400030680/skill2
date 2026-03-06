@@ -1,0 +1,4 @@
+com\inventory\dao\ProductDAO.class
+com\inventory\entity\Product.class
+com\inventory\main\App.class
+com\inventory\util\HibernateUtil.class
